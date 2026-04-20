@@ -14,6 +14,6 @@
 ### System Flow
  * **Combat:** Turn-based battles against scaling monsters.
  * **Milestones:** A Boss encounter every 5th round.
- * **Support:** Access to Shops (upgrades) and Camps (recovery) to extend the run.
+ * **Support:** Access to Shops (weapons) and Camps (recovery) to extend the run.
  * **Termination:** The game concludes only when the player's HP hits 0.
 
